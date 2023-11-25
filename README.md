@@ -1,2 +1,2 @@
 # Over-unlearning
-This repository contains the code for paper "A Duty to Forget, a Right to be Assured? Exposing Vulnerabilities in Machine Unlearning Services"
+This repository contains the code for the paper "A Duty to Forget, a Right to be Assured? Exposing Vulnerabilities in Machine Unlearning Services"

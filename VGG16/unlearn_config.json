@@ -1,0 +1,13 @@
+{
+    "steps": 1,
+    "tau": 2e-4,
+    "tau_list": [],
+    "ratio": [0.1], 
+    "first-order": {
+        "tau": 2e-4,
+        "tau_list": []
+    },
+    "fine-tuning": {
+        "epochs": [1, 10]
+    }
+}

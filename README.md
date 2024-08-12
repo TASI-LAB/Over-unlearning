@@ -20,7 +20,7 @@ numpy==1.21.6
 - Cifar 10 
 - Cifar 100
 - STL 10
-All three datasets should be processed into 6 np files: X_test.npy, X_train.npy, X_valid.npy, y_test.npy, y_train.npy, y_valid.npy. You can download these processed datasets from: https://drive.google.com/drive/folders/1fO3Pyc6NYE_MVA14Xu5DaBIfBSrJMmc3?usp=sharing, please place the dataset in folder train_test_data.
+All three datasets should be processed into 6 np files: X_test.npy, X_train.npy, X_valid.npy, y_test.npy, y_train.npy, y_valid.npy. You can download these processed datasets from: https://drive.google.com/drive/folders/1OuvHRK804mE4WlWStm03jBFagbfGHatM?usp=sharing, please place the dataset in folder train_test_data.
 
 
 
